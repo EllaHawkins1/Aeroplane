@@ -1,4 +1,6 @@
 Flight Information API – CAA Coding Challenge
+![image](https://github.com/user-attachments/assets/3b893fb3-61ba-4fe0-9316-7158a466572c)
+
 This project implements a RESTful Web API for managing flight information using C# and .NET Core 8. It follows best practices for API structure, error handling, input validation, and logging. The data is persisted using Entity Framework Core with an in-memory database.
 
 Features Implemented
