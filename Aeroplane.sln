@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36127.28
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aeroplane", "Aeroplane\Aeroplane.csproj", "{D6D804EB-C35C-4822-B720-F2A80B003840}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aeroplane.Tests", "Aeroplane.Tests\Aeroplane.Tests.csproj", "{386D13E9-4FFC-36D4-476C-07364C3E4669}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6D804EB-C35C-4822-B720-F2A80B003840}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6D804EB-C35C-4822-B720-F2A80B003840}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6D804EB-C35C-4822-B720-F2A80B003840}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6D804EB-C35C-4822-B720-F2A80B003840}.Release|Any CPU.Build.0 = Release|Any CPU
+		{386D13E9-4FFC-36D4-476C-07364C3E4669}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{386D13E9-4FFC-36D4-476C-07364C3E4669}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{386D13E9-4FFC-36D4-476C-07364C3E4669}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{386D13E9-4FFC-36D4-476C-07364C3E4669}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7445C76-D9BD-47F6-9C1C-8E1FC8A2CFC4}
+	EndGlobalSection
+EndGlobal
